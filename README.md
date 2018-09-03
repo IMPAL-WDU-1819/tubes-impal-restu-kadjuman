@@ -14,8 +14,9 @@ Pada aplikasi ini terdapat 3 user yaitu :
 - [x] SKPL
 - [x] DPPL
 - [x] Skema Relasi
-- [ ] DDL
+- [x] DDL
 - [ ] DML
+- [ ] Normalisasi
 - [ ] Soon
 # Restu Kadjuman Developer Team
 1. Made Raharja Surya Mahadi
